@@ -1,7 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: ederbano
- * Date: 2/2/18
- * Time: 1:19 PM
- */
+	$DB_NAME = "shop";
+	$DB_USER = "root";
+	$DB_PASS = "123456";
+	$DB_HOST = ""
+?>
